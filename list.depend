@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1728763379 source:d:\universidad\programacion iii\libreria lista\list\main.cpp
+	<iostream>
+	"list.h"
+
+1728762797 d:\universidad\programacion iii\libreria lista\list\list.h
+	<iostream>
+	<cstring>
+
